@@ -1,23 +1,23 @@
 import { Card, CardContent } from "@/components/ui/card";
 
 const experiences = [{
-  title: "Immersive Cultural Encounters",
-  description: "Engage with local traditions through guided village walks, visits to temples, and participation in regional festivities, providing a deep connection to the places visited.",
+  title: "Pioneers in Asian River Cruising",
+  description: "Sail remote rivers of Southeast Asia on handcrafted colonial-style vessels.",
   color: "bg-blue-50 text-blue-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684533/cld-sample-4.jpg"
 }, {
-  title: "Scenic Voyages",
-  description: "Sail through stunning landscapes, from the lush jungles of the Mekong Delta to the historic banks of the Ganges, witnessing the diverse beauty of Asia's rivers.",
+  title: "Off-the-Beaten-Path Itineraries",
+  description: "Explore rarely visited villages and markets in Vietnam, Laos, and Myanmar.",
   color: "bg-rose-50 text-rose-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684532/samples/cup-on-a-table.jpg"
 }, {
-  title: "Exceptional Onboard Comfort",
-  description: "Relax in elegant staterooms adorned with colonial-era decor, enjoy open-air dining with locally inspired cuisine, and partake in onboard activities that reflect the rich cultures encountered ashore.",
+  title: "All-Inclusive Simplicity",
+  description: "Fares cover shore excursions, meals, tips, and soft drinks for easy travel.",
   color: "bg-amber-50 text-amber-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684530/samples/balloons.jpg"
 }, {
-  title: "Thoughtfully Curated Itineraries",
-  description: "Each voyage is designed to offer a balance of exploration and relaxation, with carefully planned excursions and ample time to absorb the serene riverine environments.",
+  title: "Immersive Local Experiences",
+  description: "Guests connect with local life through daily interactions and on-foot village visits.",
   color: "bg-emerald-50 text-emerald-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684526/samples/landscapes/beach-boat.jpg"
 }];
@@ -68,7 +68,7 @@ const ExperienceAndWhy = () => {
           <div className="w-24 h-1 bg-viking-gold mx-auto"></div>
         </div>
 
-        {/* Viking River Cruises Section */}
+        {/* Pandaw Section */}
         <div className="mb-24">
           <div className="mb-12 flex justify-center border-2 border-viking-gold py-4">
             <img
